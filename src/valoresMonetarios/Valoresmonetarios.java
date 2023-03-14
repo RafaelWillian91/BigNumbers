@@ -1,3 +1,5 @@
+package valoresMonetarios;
+
 import java.math.BigDecimal;
 
 public class Valoresmonetarios {
